@@ -1,0 +1,22 @@
+{
+  "files_found": 1484,
+  "total_records": 1484,
+  "field_frequency": {
+    "act_title": 1484,
+    "act_no": 1484,
+    "act_year": 1484,
+    "publication_date": 1484,
+    "sections": 1484,
+    "footnotes": 1484,
+    "copyright_info": 1484,
+    "source_url": 1484,
+    "fetch_timestamp": 1484,
+    "csv_metadata": 1484,
+    "token_count": 1484,
+    "language": 1484,
+    "government_context": 1484,
+    "processing_info": 1484,
+    "legal_system_context": 1484
+  },
+  "parse_errors": []
+}
